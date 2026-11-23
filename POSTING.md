@@ -4,7 +4,7 @@ Status: meme SUDAH jadi dan di-stage. Entri BELUM bisa di-submit — submit butu
 
 ## 1. Akun X yang dipakai
 
-Posting dari salah satu akun X kamu yang **publik (tidak protected)**. Saran: **@vinalusd**. Sebelum posting, cek: Settings → Privacy and safety → Audience → "Protect your posts" harus **OFF**. Akun + postingan harus tetap publik sampai hasil keluar (8 Des 2026).
+Posting dari salah satu akun X kamu yang **publik (tidak protected)**. ⚠️ JANGAN @vinalusd — akun itu diblokir sejak 20 Nov, jangan dipakai. Pakai salah satu akun aktif lain, mis. @yunda1kih, @gigigh2w, @fifibz99, @uliwsmf, @usaiaisq, @uaiaiaiv0ni, @iaiaigeoe, atau @aiiaansufsf (pilih yang kamu mau). Sebelum posting, cek: Settings → Privacy and safety → Audience → "Protect your posts" harus **OFF**. Akun + postingan harus tetap publik sampai hasil keluar (8 Des 2026).
 
 ## 2. Gambar yang dipakai
 
@@ -32,7 +32,7 @@ Wajib ada di teks: play code `makefun-frog-picnic-paddle`, `@makefunai` dan/atau
 
 ## 5. Yang harus kamu kirim balik ke asisten
 
-Salin URL postingannya, bentuknya: `https://x.com/<handle>/status/<angka-panjang>` — kirim URL itu saja di chat. Contoh: `https://x.com/vinalusd/status/1234567890123456789`.
+Salin URL postingannya, bentuknya: `https://x.com/<handle-pilihanmu>/status/<angka-panjang>` — kirim URL itu saja di chat.
 
 Begitu URL diterima, asisten akan: isi URL ke `POST.json`, commit + push ke repo `gemblongjos3-cmyk/gta6-meme-x-01`, jalankan `check`, lalu submit dengan keypair `~/.makefun/keypairs/https_make.fun.json` atas nama @odet123 (wallet 6ND9qin4...). Kuota hari ini masih 3/3, can_submit=true.
 
